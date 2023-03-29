@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilson soza</h1>
-<h3 align="center">A passionate Full stack developer from Malawi</h3>
+<h3 align="center">A passionate full-stack developer from Malawi</h3>
 
-- 🔭 I’m currently working on **Crop AI**
+- 🔭 I’m currently working on **Crop AI - Deep Learning-Based Crop Disease Detection Model**
 
 - 🌱 I’m currently learning **Python, Data science, React, node.js**
 
