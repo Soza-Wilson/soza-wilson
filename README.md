@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wilson soza</h1>
+<h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">A passionate full-stack developer from Malawi</h3>
 
 - 🔭 I’m currently working on **Crop AI - Deep Learning-Based Crop Disease Detection Model**
