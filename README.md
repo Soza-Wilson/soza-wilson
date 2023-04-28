@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Wilson</h1>
-<h3 align="center">A passionate full-stack developer from Malawi</h3>
+<h1 align="center">Hi 🤦‍♂️👋, I'm Wilson</h1>
+<h3 align="center">Im a full-stack developer</h3>
 
-- 🔭 I’m currently working on **Crop AI - Deep Learning-Based Crop Disease Detection Model**
+- 🔭 I’m currently working on **Crop AI - Deep Learning-Based Crop Disease Detection Model** - To improve my skill in Machine learning and and python
 
-- 🌱 I’m currently learning **Python, Data science, React, node.js**
+- 👨‍💻 I’m currently learning **Python, some Data science, React, and mastering node.js**
 
-- 🤝 I’m looking for help with **open source projects**
+- 🤝 I’m looking for help with **open source projects** and as mention machine learning 
+
+- 😪 Actually i'm looking for cooding buddies, maybe start a community🤡. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
