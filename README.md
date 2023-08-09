@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
-<h3 align="center">Im a full-stack developer</h3>
+<h3 align="center"> A full-stack developer</h3>
 
 - 🔭 I’m currently working on **Crop AI - Deep Learning-Based Crop Disease Detection Model** - To improve my skill in Machine learning and and python
 
