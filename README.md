@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **open source projects** and as mention machine learning 
 
-- 😪 Actually i'm looking for cooding buddies, maybe start a community🤡. 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
