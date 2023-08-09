@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Crop AI - Deep Learning-Based Crop Disease Detection Model** - To improve my skill in Machine learning and and python
 
-- 👨‍💻 I’m currently learning **Python, some Data science, React, and mastering node.js**
+- 👨‍💻 I’m currently learning **Python, some Data science and mastering node.js**
 
 - 🤝 I’m looking for help with **open source projects** and as mention machine learning 
 
