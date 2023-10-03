@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wilson</h1>
 <h3 align="center"> A full-stack developer</h3>
 
-* About Me:
+ About Me:
 I'm a Full-Stack Developer with a passion for building robust, scalable web applications that make a difference. With experience in both front-end and back-end development, I thrive in the fast-paced world of tech, constantly seeking out new challenges to tackle.
 
 
